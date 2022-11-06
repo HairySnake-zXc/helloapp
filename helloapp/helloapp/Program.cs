@@ -16,5 +16,10 @@
         {
             Console.WriteLine("hello white");
         }    
+
+        public static void greedBlack()
+        {
+            Console.WriteLine("hello black");
+        }    
     }
 }
