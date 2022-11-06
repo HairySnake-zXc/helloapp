@@ -11,5 +11,10 @@
         {
             Console.WriteLine("hello");
         }
+
+        public static void greedWhite()
+        {
+            Console.WriteLine("hello white");
+        }    
     }
 }
